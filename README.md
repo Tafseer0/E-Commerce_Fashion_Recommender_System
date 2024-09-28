@@ -22,4 +22,4 @@ Problem Faced during the project
 2. Tensorflow_gpu setup
 3. Streamlit port setup when i try to run streamlit faced port permission error so i change default port to 5958.
    this can also work if anyone dont want to change the default port then use this "streamlit run app_name.py --server.port 5998"
-4.  
+4. In this repo there is one file which is not uploaded because of the size issue "1. Embeddings.pkl"The project 
